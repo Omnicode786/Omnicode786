@@ -18,10 +18,10 @@ I'm an **Electrical Engineering student at NED University** with a deep passion 
 <div align="center">
   
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Omnicode786&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Omnicode786&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omnicode786&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=Omnicode786&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Omnicode786&theme=radical&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omnicode786&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
+<br/>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
