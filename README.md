@@ -1,4 +1,6 @@
 # 👋 Hi, I'm Muzammil Alam!<br/>
+
+<div align="center">
 🚀 **Electronics Engineering Student | Software Developer | AI & Embedded Systems Enthusiast<br/>**
 
 I'm an **Electrical Engineering student at NED University** with a deep passion for **software development**, **artificial intelligence**, and **embedded systems**. I thrive on creating interactive applications, delving into new technologies, and exploring advancements in **machine learning** and **self-driving cars**.<br/>
@@ -25,4 +27,5 @@ I'm an **Electrical Engineering student at NED University** with a deep passion 
 ---
 [![](https://visitcount.itsvg.in/api?id=Omnicode786&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
