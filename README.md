@@ -3,7 +3,7 @@
 
 🚀 **Electronics Engineering Student | Software Developer | AI & Embedded Systems Enthusiast<br/>**
 
-I'm an **Electrical Engineering student at NED University** with a deep passion for **software development**, **artificial intelligence**, and **embedded systems**. I thrive on creating interactive applications, delving into new technologies, and exploring advancements in **machine learning** and **self-driving cars**.<br/>
+I'm an **Electronics Engineering student at NED University** with a deep passion for **software development**, **artificial intelligence**, and **embedded systems**. I thrive on creating interactive applications, delving into new technologies, and exploring advancements in **machine learning** and **self-driving cars**.<br/>
 
 ## 📫 Let's Connect<br/>
 
