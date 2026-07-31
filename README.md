@@ -1,161 +1,187 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,40:0f3d91,100:06b6d4&text=Muzammil%20Alam&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Product%20Builder&descAlignY=65" width="100%"/>
+<img src="https://raw.githubusercontent.com/Omnicode786/Omnicode786/main/assets/profile-hero.svg" width="100%" alt="Muzammil Alam profile banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Building+AI-powered+products+from+idea+to+reality.;RAG+Systems+%7C+AI+Agents+%7C+Voice+AI+%7C+Full-Stack+Apps;Creating+software+that+solves+real+business+problems." />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&center=true&vCenter=true&width=900&lines=Building+AI-powered+products+that+solve+real+problems.;RAG+Systems+%7C+AI+Agents+%7C+Voice+AI+%7C+Full-Stack+Platforms;From+architecture+to+deployment%2C+turning+ideas+into+products." />
 
 </div>
 
+<br/>
+
 # 👋 About Me
 
-I am **Muzammil Alam**, a Computer Systems Engineering student at **NED University of Engineering & Technology, Karachi** and an AI-focused full-stack developer.
+I am **Muzammil Alam**, a **Computer Systems Engineering student at NED University of Engineering & Technology, Karachi** and an **AI-focused Full-Stack Developer**.
 
-My academic foundation in computer systems gives me exposure to software, hardware, networks, embedded systems, and computational thinking. However, my professional focus is building **modern AI-powered software products** — from intelligent business platforms and automation systems to interactive applications and games.
+My engineering foundation gives me exposure to computer architecture, digital systems, embedded platforms, software engineering, and computational problem solving. My current focus is building **intelligent software products** — AI platforms, automation systems, business applications, voice agents, and interactive experiences.
 
-I enjoy working across the complete product lifecycle:
+I do not just build features; I design complete systems:
 
 ```text
-Idea → Research → Architecture → UI/UX → Development → AI Integration → Testing → Deployment
+Problem Understanding
+        ↓
+Product Strategy
+        ↓
+System Architecture
+        ↓
+User Experience
+        ↓
+Full-Stack Development
+        ↓
+AI Integration
+        ↓
+Testing & Deployment
 ```
 
-My goal is simple: build software that is not only technically impressive, but genuinely useful.
+> Building technology where engineering depth meets product thinking.
 
 ---
 
-# 🚀 What I Build
+# 🎓 Education & Background
 
-### 🤖 Artificial Intelligence Systems
-- AI Agents with tool calling
-- Retrieval Augmented Generation (RAG)
-- Document intelligence systems
-- Semantic search
-- AI automation workflows
-- Voice AI assistants
-- Business intelligence copilots
-
-### 💻 Full-Stack Applications
-- SaaS platforms
-- Enterprise dashboards
-- Management systems
-- Mobile applications
-- Real-time applications
-- Database-driven products
-
-### 🎮 Interactive Experiences
-- Mobile games
-- Simulations
-- AI-powered game mechanics
-- Graphics and creative technology projects
+| Category | Details |
+|---|---|
+| University | NED University of Engineering & Technology |
+| Degree | Bachelor of Engineering — Computer Systems Engineering |
+| Location | Karachi, Pakistan |
+| Academic Focus | Computer Systems, Software Engineering, AI, Embedded Systems |
+| Current Direction | AI Engineering, Full-Stack Development, Product Building |
 
 ---
 
-# ⭐ Featured Projects
+# 🧠 Areas I Build In
 
-## ⚖️ MIZAN — AI Legal Operating System
-
-A complete AI-powered legal workflow platform designed around cases rather than conversations.
-
-Features:
-- Intelligent case intake
-- Evidence management
-- Document analysis
-- AI-assisted drafting
-- Timeline and deadline tracking
-- Lawyer-client collaboration
-- Document-aware AI assistant
-- Legal workflow automation
-
-Tech:
-`Next.js` `TypeScript` `Prisma` `PostgreSQL` `AI APIs`
-
-🔗 https://github.com/Omnicode786/MIZAN-APP
+| Domain | Focus |
+|---|---|
+| Artificial Intelligence | LLM applications, RAG, AI agents, semantic search, embeddings |
+| Voice Intelligence | Conversational AI, voice assistants, automated calling workflows |
+| Full-Stack Engineering | Next.js, React, TypeScript, Node.js, APIs, databases |
+| Business Systems | ERP-style workflows, dashboards, automation platforms |
+| Systems Engineering | C/C++, computer architecture, embedded systems, IoT |
+| Creative Technology | Games, simulations, interactive applications |
 
 ---
 
-## 🛒 ShopIQ — AI Retail Intelligence Platform
+# 🚀 Featured Products
 
-An intelligent operating system for shops and businesses.
+<table>
+<tr>
+<td width="50%">
 
-Features:
+## ⚖️ MIZAN
+### AI Legal Case Operating System
+
+A structured legal technology platform designed around complete case workflows rather than simple conversations.
+
+**Capabilities**
+- Case management
+- Evidence and document workflows
+- Document-aware AI assistance
+- Legal drafting support
+- Search and retrieval
+- Timeline and deadline management
+- PDF case bundles
+
+**Stack**
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `AI`
+
+</td>
+<td width="50%">
+
+## 🛒 ShopIQ
+### AI Retail Intelligence Platform
+
+A business operating system designed to help shops manage operations and make data-driven decisions.
+
+**Capabilities**
 - Inventory management
-- Sales analytics
-- Customer management
-- Supplier workflows
-- Billing system
+- Billing workflows
+- Customers and suppliers
+- Reports and dashboards
 - AI business assistant
-- Operational dashboards
+- Operational insights
 
-Tech:
-`Next.js` `Prisma` `PostgreSQL` `Gemini`
+**Stack**
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Gemini`
 
-🔗 https://github.com/Omnicode786/Shop-IQ
-
----
-
-## 🏥 Clinova — Healthcare Operations Platform
-
-A healthcare management concept focused on improving clinic workflows.
-
-Includes:
-- Patient journey management
-- Operational workflows
-- Healthcare interface design
-- Digital record organization
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🧭 KOBI — Agentic Discovery Platform
 
-A platform combining discovery engines with AI assistance.
+A production-oriented platform combining discovery systems with AI assistance.
 
-Features:
-- Project discovery
-- Open-source opportunities
-- Event discovery
-- Contributor matching
-- AI-powered exploration assistant
-
-Tech:
-`Next.js` `Prisma` `Neon` `Gemini` `Workers`
-
-🔗 https://github.com/Omnicode786/KOBI
+| Feature | Description |
+|---|---|
+| Discovery Engine | Finds projects, opportunities, events, and contributors |
+| AI Layer | Grounded AI assistant for exploration and planning |
+| Infrastructure | Search pipelines, workers, databases, source adapters |
+| Technologies | Next.js, Prisma, Neon, Gemini, TypeScript |
 
 ---
 
-# 🎙️ AI Voice Agent Systems
+## 🏥 Clinova — Healthcare Operations Concept
 
-I build adaptable voice AI systems that can be customized for different industries.
+A healthcare-focused platform concept designed around improving clinic workflows, patient experiences, and operational organization.
 
-Possible applications:
+Focus areas:
 
-☎️ Customer Support
-- Answer customer queries
-- Resolve FAQs
-- Escalate complex issues
-
-👥 HR Automation
-- Candidate screening
-- Interview scheduling
-- Employee assistance
-
-🏢 Business Operations
-- Appointment booking
-- Service calls
-- Internal knowledge assistants
-
-Architecture includes:
-
-`Speech Recognition → LLM Reasoning → RAG Knowledge Retrieval → Voice Generation → Human Handoff`
+- Digital healthcare workflows
+- Patient journey management
+- Modern healthcare interfaces
+- Structured information systems
 
 ---
 
-# 🎮 Games & Creative Technology
+# 🎙️ AI Voice Agents
+
+One of my key interests is building reusable AI voice systems that can adapt to different industries.
+
+### Possible Applications
+
+| Use Case | Examples |
+|---|---|
+| Customer Service | FAQ resolution, support calls, escalation |
+| HR Automation | Candidate screening, interview workflows |
+| Business Operations | Booking, reminders, service calls |
+| Internal Systems | Company knowledge assistants |
+
+### Architecture
+
+```text
+Speech Recognition
+        ↓
+Conversation Intelligence
+        ↓
+LLM Reasoning + Tools
+        ↓
+RAG Knowledge Retrieval
+        ↓
+Voice Generation
+        ↓
+Human Handoff
+```
+
+Technologies explored:
+
+`RAG` `Vector Databases` `Embeddings` `OpenAI` `Ollama` `ElevenLabs`
+
+---
+
+# 🎮 Games & Interactive Engineering
+
+<table>
+<tr>
+<td>
 
 ## 🕵️ Casefile: Neon District
 
-A Flutter-based AI detective mystery game.
+A Flutter-based AI detective mystery experience.
 
-Features:
 - 2.5D exploration
 - Evidence collection
 - AI suspects
@@ -163,91 +189,107 @@ Features:
 - Contradiction detection
 - Investigation board
 
-🔗 https://github.com/Omnicode786/CriminalCase-Aisekho
+</td>
+<td>
 
-## 🧱 C++ Voxel Sandbox Engine
+## 🧱 Voxel Sandbox Engine
 
-A C++17 graphics project using SDL2 and OpenGL.
+A C++17 graphics project.
 
-Features:
-- Chunk-based voxel terrain
-- Rendering optimization
+- SDL2/OpenGL rendering
+- Chunk terrain
 - Physics
 - Block interaction
 - Save/load systems
 
+</td>
+</tr>
+</table>
+
 ## 🚨 CIVIX AI
 
-Smart-city emergency simulation platform.
+A smart-city crisis simulation platform.
 
 Features:
-- Crisis reporting
-- Emergency dashboards
+
+- Emergency reporting
+- Crisis dashboards
 - Agent reasoning simulation
 - Analytics
 - Real-time updates
 
-🔗 https://github.com/Omnicode786/CivicX-AiSekho
-
 ---
 
-# 🧰 Technology Stack
+# 🛠️ Technology Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,nodejs,python,cpp,c,flutter,dart,postgres,prisma,firebase,docker,git,github,arduino&perline=9"/>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,python,cpp,c,flutter,dart,postgres,prisma,firebase,docker,git,github,arduino&perline=9" />
+
 </div>
 
-Additional areas:
+### AI Toolkit
 
-`LLMs` `RAG` `AI Agents` `Vector Search` `APIs` `Cloud Systems` `Automation` `Embedded Systems`
-
----
-
-# 🏗️ Development Philosophy
-
-I believe great software is built where engineering meets product thinking.
-
-I focus on:
-
-✅ Clean architecture
-
-✅ Beautiful user experiences
-
-✅ Scalable systems
-
-✅ Real-world problem solving
-
-✅ Intelligent automation
+`LLMs` · `RAG` · `AI Agents` · `Prompt Engineering` · `Embeddings` · `Semantic Search` · `Vector Retrieval`
 
 ---
 
-# 📊 GitHub Activity
+# 💼 Engineering Experience
+
+## AI/ML Engineer — Jaunt Solutions
+
+Worked on AI-integrated software products, modern web platforms, business workflows, automation, and practical product delivery.
+
+Experience includes:
+
+- AI feature integration
+- ERP/CRM style workflows
+- Modern frontend development
+- Client-focused problem solving
+- Technical documentation
+
+---
+
+# 🏗️ Engineering Philosophy
+
+Good software is a combination of:
+
+| Principle | Meaning |
+|---|---|
+| Engineering | Reliable architecture and maintainable systems |
+| Design | Interfaces people enjoy using |
+| Intelligence | AI that creates real value |
+| Product Thinking | Solving problems, not just writing code |
+
+---
+
+# 📊 GitHub Journey
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Omnicode786&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 <img src="https://streak-stats.demolab.com?user=Omnicode786&theme=tokyonight&hide_border=true" width="48%"/>
 
+</div>
+
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omnicode786&theme=tokyo-night&hide_border=true" width="95%"/>
-
 </div>
 
 ---
 
-# 🐍 Contribution Journey
+# 🐍 Contribution Activity
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/Omnicode786/Omnicode786/output/github-contribution-grid-snake.svg" width="95%"/>
-
 </div>
 
 ---
 
 <div align="center">
 
-## Let's Build Something Intelligent 🚀
+## Building the future, one intelligent system at a time 🚀
 
-Interested in AI products, automation systems, full-stack platforms, game development, or ambitious technology projects.
+AI Products • Full-Stack Platforms • Automation • Voice Systems • Games
 
 </div>
