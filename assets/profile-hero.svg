@@ -1,0 +1,99 @@
+<svg width="1200" height="380" viewBox="0 0 1200 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.48" stop-color="#071A35"/>
+      <stop offset="1" stop-color="#062F3C"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="140" y1="80" x2="1010" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8">
+        <animate attributeName="stop-color" values="#38BDF8;#818CF8;#22D3EE;#38BDF8" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.5" stop-color="#818CF8">
+        <animate attributeName="stop-color" values="#818CF8;#22D3EE;#38BDF8;#818CF8" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#22D3EE">
+        <animate attributeName="stop-color" values="#22D3EE;#38BDF8;#818CF8;#22D3EE" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(975 82) rotate(140) scale(280 220)">
+      <stop stop-color="#0EA5E9" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(192 340) rotate(-25) scale(300 210)">
+      <stop stop-color="#6366F1" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#94A3B8" stroke-opacity="0.075"/>
+    </pattern>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="clip">
+      <rect width="1200" height="380" rx="28"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="380" fill="url(#bg)"/>
+    <rect width="1200" height="380" fill="url(#grid)"/>
+    <rect width="1200" height="380" fill="url(#glowA)"/>
+    <rect width="1200" height="380" fill="url(#glowB)"/>
+
+    <g opacity="0.7">
+      <path d="M72 80H245L278 113H418" stroke="url(#accent)" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="8 10">
+        <animate attributeName="stroke-dashoffset" values="0;-36" dur="3.5s" repeatCount="indefinite"/>
+      </path>
+      <path d="M1130 304H946L910 268H772" stroke="url(#accent)" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="8 10">
+        <animate attributeName="stroke-dashoffset" values="0;36" dur="3.5s" repeatCount="indefinite"/>
+      </path>
+      <circle cx="72" cy="80" r="4" fill="#38BDF8" filter="url(#softGlow)"/>
+      <circle cx="418" cy="113" r="4" fill="#818CF8" filter="url(#softGlow)"/>
+      <circle cx="1130" cy="304" r="4" fill="#22D3EE" filter="url(#softGlow)"/>
+      <circle cx="772" cy="268" r="4" fill="#818CF8" filter="url(#softGlow)"/>
+    </g>
+
+    <g opacity="0.9">
+      <circle cx="1060" cy="112" r="72" stroke="url(#accent)" stroke-opacity="0.2"/>
+      <circle cx="1060" cy="112" r="52" stroke="url(#accent)" stroke-opacity="0.28" stroke-dasharray="9 11">
+        <animateTransform attributeName="transform" type="rotate" from="0 1060 112" to="360 1060 112" dur="16s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1060" cy="112" r="29" stroke="url(#accent)" stroke-opacity="0.45" stroke-dasharray="5 8">
+        <animateTransform attributeName="transform" type="rotate" from="360 1060 112" to="0 1060 112" dur="10s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1060" cy="112" r="5" fill="#22D3EE" filter="url(#softGlow)"/>
+    </g>
+
+    <g opacity="0.55">
+      <circle cx="101" cy="298" r="3" fill="#38BDF8">
+        <animate attributeName="cy" values="298;283;298" dur="4s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="146" cy="323" r="2" fill="#818CF8">
+        <animate attributeName="cy" values="323;306;323" dur="5.2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1098" cy="221" r="3" fill="#22D3EE">
+        <animate attributeName="cy" values="221;204;221" dur="4.6s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <text x="600" y="115" text-anchor="middle" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="5">ENGINEERING INTELLIGENT PRODUCTS</text>
+    <text x="600" y="196" text-anchor="middle" fill="url(#accent)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="66" font-weight="800" letter-spacing="2">MUZAMMIL ALAM</text>
+    <text x="600" y="242" text-anchor="middle" fill="#CBD5E1" font-family="JetBrains Mono, Consolas, monospace" font-size="18" letter-spacing="1.4">AI ENGINEER  ·  FULL-STACK DEVELOPER  ·  PRODUCT BUILDER</text>
+
+    <g transform="translate(237 277)">
+      <rect width="726" height="48" rx="24" fill="#020617" fill-opacity="0.64" stroke="url(#accent)" stroke-opacity="0.45"/>
+      <circle cx="27" cy="24" r="5" fill="#22D3EE"/>
+      <text x="46" y="30" fill="#E2E8F0" font-family="JetBrains Mono, Consolas, monospace" font-size="14">NED UNIVERSITY · B.E. COMPUTER SYSTEMS ENGINEERING · KARACHI</text>
+    </g>
+
+    <path d="M340 344H860" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" opacity="0.62">
+      <animate attributeName="stroke-dasharray" values="0 520;260 260;520 0" dur="5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="379" rx="27.5" stroke="#38BDF8" stroke-opacity="0.16"/>
+</svg>
